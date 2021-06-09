@@ -3,8 +3,8 @@
 I'm a computer engineering student who is passionate about writing code, solving problems and building software.
 
 - 👨🏻‍🎓 I’m currently a computer engineering student at Federal University of Itajubá.
-- 👨🏻‍💻 I’m currently learning web development using ReactJS and NodeJS.
-- 🤩 My favorite stack is Javascript, NodeJS and ReactJS
+- 👨🏻‍💻 I’m currently learning web development using Typescript and React Native.
+- 🤩 My favorite stack is Javascript, NodeJS and ReactJS.
 
 <p align="center">
   <a href="mailto:flavioaavieira@gmail.com?subject=Olá%20Flávio%20Arêas"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
